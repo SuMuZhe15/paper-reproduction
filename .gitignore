@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# API keys and secrets
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Cache
+.pytest_cache/

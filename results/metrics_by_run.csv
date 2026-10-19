@@ -1,0 +1,5 @@
+﻿run_id,method,total_runs,successful_runs,failed_runs,average_seconds,average_steps,average_tool_calls,average_search_calls,average_open_page_calls,total_tool_calls,total_tool_errors,success_rate_pct,keyword_pass_rate_pct,average_keyword_coverage_pct,tool_error_rate_pct
+6f72cb7e,Act,5,5,0,2.49,1.0,1.0,1.0,0.0,5,0,100.0,0.0,20.0,0.0
+6f72cb7e,CoT,5,5,0,3.24,0.0,0.0,0.0,0.0,0,0,100.0,80.0,80.0,0.0
+6f72cb7e,ReAct,5,5,0,3.99,1.8,0.8,0.6,0.2,4,0,100.0,60.0,86.67,0.0
+6f72cb7e,Standard,5,5,0,1.21,0.0,0.0,0.0,0.0,0,0,100.0,60.0,73.33,0.0

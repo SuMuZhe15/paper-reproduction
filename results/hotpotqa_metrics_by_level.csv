@@ -1,0 +1,5 @@
+﻿method,level,total_runs,successful_runs,failed_runs,average_seconds,average_steps,average_tool_calls,average_search_calls,average_open_page_calls,total_tool_calls,total_tool_errors,success_rate_pct,EM_pct,F1_pct,tool_error_rate_pct
+Act,hard,460,450,10,3.49,0.98,0.98,0.98,0.0,452,0,97.83,0.0,4.76,0.0
+CoT,hard,460,452,8,2.45,0.0,0.0,0.0,0.0,0,0,98.26,0.0,4.45,0.0
+ReAct,hard,460,427,33,5.94,3.02,2.07,1.29,0.78,953,0,92.83,10.87,26.35,0.0
+Standard,hard,461,454,7,1.25,0.0,0.0,0.0,0.0,0,0,98.48,8.46,19.95,0.0
